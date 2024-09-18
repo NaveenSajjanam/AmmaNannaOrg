@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.de288844.css",
+    "main.js": "./static/js/main.6620eadb.js",
+    "static/js/453.730f0eb9.chunk.js": "./static/js/453.730f0eb9.chunk.js",
+    "static/media/signature.png": "./static/media/signature.d4ea3bc8d052534d2cfe.png",
+    "static/media/stamp.png": "./static/media/stamp.996604e6921cec728c7c.png",
+    "static/media/ammanannaahramam_logo.png": "./static/media/ammanannaahramam_logo.2d4b10e661d826634bef.png",
+    "static/media/letterhead_from_Akhil.jpeg": "./static/media/letterhead_from_Akhil.79b29303c93b993e9a02.jpeg",
+    "static/media/doner_photo.jpg": "./static/media/doner_photo.3c4eed9388ef7ff10f73.jpg",
+    "index.html": "./index.html",
+    "main.de288844.css.map": "./static/css/main.de288844.css.map",
+    "main.6620eadb.js.map": "./static/js/main.6620eadb.js.map",
+    "453.730f0eb9.chunk.js.map": "/static/js/453.730f0eb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de288844.css",
+    "static/js/main.6620eadb.js"
+  ]
+}
